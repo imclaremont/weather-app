@@ -1,2 +1,2 @@
-## developed 100% by vibe coding
-with windsurf editor
+## Vibe Coding
+with Windsurf
